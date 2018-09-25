@@ -1,11 +1,16 @@
 _repo: The-Luck-of-the-Dudley-Grahams-As-Related-in-Extracts-from-Elizabeth-Graham-s-Diary_57301
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57301-h/images/cover.jpg
 creator:
   author:
     agent_name: Haines, Alice Calhoun
     gutenberg_agent_id: '49304'
     url: http://www.gutenberg.org/2009/agents/49304
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57301#The-Luck-of-the-Dudley-Grahams-As-Related-in-Extracts-from-Elizabeth-Graham-s-Diary
 gutenberg_issued: '2018-06-10'
 gutenberg_type: Text
 identifiers:
